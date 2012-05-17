@@ -13,6 +13,7 @@
 		CB9DF22215654BA9005EBA90 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = CB9DF22015654BA9005EBA90 /* Credits.rtf */; };
 		CB9DF22515654BA9005EBA90 /* hickdevAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CB9DF22415654BA9005EBA90 /* hickdevAppDelegate.m */; };
 		CB9DF22815654BA9005EBA90 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = CB9DF22615654BA9005EBA90 /* MainMenu.xib */; };
+		CB9DF22F15654F9B005EBA90 /* gitignore.gitignore in Resources */ = {isa = PBXBuildFile; fileRef = CB9DF22E15654F9B005EBA90 /* gitignore.gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		CB9DF22315654BA9005EBA90 /* hickdevAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = hickdevAppDelegate.h; sourceTree = "<group>"; };
 		CB9DF22415654BA9005EBA90 /* hickdevAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = hickdevAppDelegate.m; sourceTree = "<group>"; };
 		CB9DF22715654BA9005EBA90 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		CB9DF22E15654F9B005EBA90 /* gitignore.gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = gitignore.gitignore; path = ../../../../../Downloads/gitignore.gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				CB9DF22315654BA9005EBA90 /* hickdevAppDelegate.h */,
 				CB9DF22415654BA9005EBA90 /* hickdevAppDelegate.m */,
 				CB9DF22615654BA9005EBA90 /* MainMenu.xib */,
+				CB9DF22E15654F9B005EBA90 /* gitignore.gitignore */,
 				CB9DF21815654BA9005EBA90 /* Supporting Files */,
 			);
 			path = "git-test";
@@ -157,6 +160,7 @@
 				CB9DF21C15654BA9005EBA90 /* InfoPlist.strings in Resources */,
 				CB9DF22215654BA9005EBA90 /* Credits.rtf in Resources */,
 				CB9DF22815654BA9005EBA90 /* MainMenu.xib in Resources */,
+				CB9DF22F15654F9B005EBA90 /* gitignore.gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
